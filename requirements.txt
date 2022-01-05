@@ -3,3 +3,4 @@ Django==4.0
 Pillow==9.0.0
 sqlparse==0.4.2
 tzdata==2021.5
+python-dotenv 
