@@ -3,6 +3,5 @@
 __pycache__
 virtual
 db.sqlite3
-/static
 .DS_Store
 .env
